@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandStorageTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:41" hostname="LAPTOP-54A7EMVE" time="0.001">
+  <properties/>
+  <testcase name="invalid_commands_are_stored_in_order_of_add_3()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="add_invalid_commands_to_storage()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="invalid_commands_are_stored_in_order_of_add()" classname="banking.CommandStorageTest" time="0.0"/>
+  <testcase name="add_multiple_invalid_commands_to_storage()" classname="banking.CommandStorageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

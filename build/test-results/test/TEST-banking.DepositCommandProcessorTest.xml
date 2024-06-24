@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositCommandProcessorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.003">
+  <properties/>
+  <testcase name="deposit_max_for_checking_account()" classname="banking.DepositCommandProcessorTest" time="0.001"/>
+  <testcase name="deposit_a_valid_savings_account_with_100_starting_balance()" classname="banking.DepositCommandProcessorTest" time="0.0"/>
+  <testcase name="deposit_a_valid_empty_savings_account()" classname="banking.DepositCommandProcessorTest" time="0.001"/>
+  <testcase name="deposit_a_valid_empty_checking_account()" classname="banking.DepositCommandProcessorTest" time="0.0"/>
+  <testcase name="depositing_zero()" classname="banking.DepositCommandProcessorTest" time="0.0"/>
+  <testcase name="deposit_max_for_savings_account()" classname="banking.DepositCommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

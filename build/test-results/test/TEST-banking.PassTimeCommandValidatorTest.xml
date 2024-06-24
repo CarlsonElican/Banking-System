@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeCommandValidatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.003">
+  <properties/>
+  <testcase name="pass_missing_inputs()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_extra_leading_spaces()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_with_spaces_between()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_differing_capitalization()" classname="banking.PassTimeCommandValidatorTest" time="0.001"/>
+  <testcase name="pass_an_invalid_time()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_a_valid_time()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_extra_inputs()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="pass_with_typo()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

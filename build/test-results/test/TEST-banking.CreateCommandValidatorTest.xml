@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateCommandValidatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.01">
+  <properties/>
+  <testcase name="create_invalid_command_with_invalid_id_input()" classname="banking.CreateCommandValidatorTest" time="0.005"/>
+  <testcase name="create_invalid_command_with_typos()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="creating_a_valid_checking_account()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_a_cd_account_with_bordering_balance()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_that_adds_balance_to_checking_savings()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_id_already_exists()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_invalid_balance_for_cd()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="creating_savings_account_with_edges_of_apr()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="creating_a_valid_savings_account()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_invalid_apr()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="create_valid_command_with_differening_capitalizations()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_with_extra_spaces()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="create_invalid_command_with_missing_arguments()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="create_a_valid_cd_account()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

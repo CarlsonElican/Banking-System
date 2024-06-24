@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositCommandValidatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.007">
+  <properties/>
+  <testcase name="deposit_invalid_command_negative_amount()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_invalid_command_depositing_into_cd()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="create_invalid_command_with_invalid_id_input()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_invalid_command_savings_amount()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_deposit_with_leading_spaces()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_a_valid_checking_account_max_min_values()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_a_valid_savings_account_of_max_min_values()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_a_valid_checking_account()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_a_valid_savings_account()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_with_varying_capitalization()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_with_typo_counting_capitalization()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_invalid_command_account_doesnt_exist()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_invalid_command_checking_amount()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_with_extra_spaces()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="create_invalid_command_with_missing_arguments()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

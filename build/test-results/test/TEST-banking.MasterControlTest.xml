@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.021">
+  <properties/>
+  <testcase name="returns_two_transfers_for_both_accounts_when_called()" classname="banking.MasterControlTest" time="0.014"/>
+  <testcase name="returns_proper_account_data_when_closed_account()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="returns_multiple_account_data_with_commands()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="returns_multiple_account_data_with_commands_and_invalid_command()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="sample_make_sure_this_passes_unchanged_or_you_will_fail()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="returns_single_account_data()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="returns_single_account_data_with_capitalization_jumps()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="returns_single_account_data_with_commands()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="returns_single_account_data_with_proper_decimals_besides_history()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="returns_account_but_not_pass_times()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="returns_single_account_data_with_proper_decimals()" classname="banking.MasterControlTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

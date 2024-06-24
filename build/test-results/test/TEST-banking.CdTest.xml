@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CdTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:41" hostname="LAPTOP-54A7EMVE" time="0.002">
+  <properties/>
+  <testcase name="get_account_type_returns_cd()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="create_cd_account_with_set_balance()" classname="banking.CdTest" time="0.0"/>
+  <testcase name="get_can_withdraw_is_false()" classname="banking.CdTest" time="0.002"/>
+  <testcase name="cd_account_starts_with_0_months()" classname="banking.CdTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

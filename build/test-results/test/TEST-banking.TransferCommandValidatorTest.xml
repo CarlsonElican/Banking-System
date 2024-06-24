@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferCommandValidatorTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.008">
+  <properties/>
+  <testcase name="invalid_withdraw_withdrawing_with_cd_account()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_between_two_savings_accounts()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_typos()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_withdrawing_too_high_from_checking()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_withdrawing_multiple_times_in_savings()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_withdrawing_negative_from_checking()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_over_remaining_balance()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_with_extra_spaces_between()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_withdrawing_multiple_times_in_savings()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="valid_withdraw_with_leading_spaces()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_with_different_capitalizations()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_between_two_checking_accounts()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_missing_arguements()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_depositing_into_cd_account()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_withdrawing_too_high_from_savings()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_between_two_checking_accounts_max_amount()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_withdrawing_negative_from_savings()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_between_savings_and_checking()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

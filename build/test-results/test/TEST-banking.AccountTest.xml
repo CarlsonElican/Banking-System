@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.AccountTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:41" hostname="LAPTOP-54A7EMVE" time="0.027">
+  <properties/>
+  <testcase name="withdrawing_amount_from_checking_account_past_limit()" classname="banking.AccountTest" time="0.017"/>
+  <testcase name="withdrawing_amount_from_savings_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="apr_of_account_is_equal_to_given_value()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="depositing_amount_into_checking_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_amount_into_savings_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="balance_of_account_is_equal_to_given_value()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_exact_amount_from_checking_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="checking_starts_off_empty()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="id_of_account_is_equal_to_given_value()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="cd_starts_with_empty_months_passed()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="withdrawing_multiple_times_on_account()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="depositing_multiple_times_on_account()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_amount_from_savings_account_past_limit()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="cd_add_months_works()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_amount_from_checking_account()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="savings_starts_off_empty()" classname="banking.AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

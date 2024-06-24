@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateCommandProcessorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:41" hostname="LAPTOP-54A7EMVE" time="0.006">
+  <properties/>
+  <testcase name="create_a_valid_checking_account()" classname="banking.CreateCommandProcessorTest" time="0.003"/>
+  <testcase name="create_ignoring_capitalization()" classname="banking.CreateCommandProcessorTest" time="0.0"/>
+  <testcase name="create_a_valid_checking_account_ignoring_extra_leading_spaces()" classname="banking.CreateCommandProcessorTest" time="0.001"/>
+  <testcase name="create_a_valid_savings_account()" classname="banking.CreateCommandProcessorTest" time="0.0"/>
+  <testcase name="create_a_valid_cd_account()" classname="banking.CreateCommandProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

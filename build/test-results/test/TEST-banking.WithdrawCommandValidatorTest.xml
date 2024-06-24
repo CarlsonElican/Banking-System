@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawCommandValidatorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.006">
+  <properties/>
+  <testcase name="invalid_withdraw_less_than_balance_on_cd_account()" classname="banking.WithdrawCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_mispelling()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_of_zero_on_checking_account()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_on_cd_account_after_12_months_exact_amount()" classname="banking.WithdrawCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_extra_arguements()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_spaces_on_withdraw()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_multiple_withdraw_from_savings_account_with_pass_time()" classname="banking.WithdrawCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_withdraw_on_cd_account_before_12_months()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_multiple_withdraw_from_savings_account()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="withdraw_from_valid_checking_account()" classname="banking.WithdrawCommandValidatorTest" time="0.001"/>
+  <testcase name="valid_extra_leading_spaces_for_withdraw()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_missing_arguements()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_withdraw_on_cd_account_after_12_months()" classname="banking.WithdrawCommandValidatorTest" time="0.001"/>
+  <testcase name="withdraw_from_valid_savings_account()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_ignore_capitalizations_for_withdraw()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_on_cd_account_after_6_months()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_withdraw_negative_balance()" classname="banking.WithdrawCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

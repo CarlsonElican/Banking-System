@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeCommandProcessorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:42" hostname="LAPTOP-54A7EMVE" time="0.002">
+  <properties/>
+  <testcase name="pass_valid_time_correct_calculation_amounts_for_cd_account()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="turn_can_withdraw_for_savings_to_true_after_pass()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="pass_valid_time_to_close_empty_account()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="pass_valid_time_to_deduct_25_from_below_100_accounts()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="pass_valid_time_for_multiple_accounts()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

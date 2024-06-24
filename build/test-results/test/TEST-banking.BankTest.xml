@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-06-10T01:09:41" hostname="LAPTOP-54A7EMVE" time="0.008">
+  <properties/>
+  <testcase name="deposit_multiple_times_through_id_in_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="deposit_twice_balance_through_id_in_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="withdraw_twice_balance_through_id_in_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="delete_existing_account()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="withdraw_balance_through_id_in_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="retrieve_account_from_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="add_two_account_to_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="delete_multiple_existing_account()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="bank_starts_off_empty()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="deposit_balance_through_id_in_bank()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="add_account_to_bank()" classname="banking.BankTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
